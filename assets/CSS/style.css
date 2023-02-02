@@ -1,0 +1,35 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1;
+  }
+
+.jumbotron {
+    text-align: center;
+    background-color: #1c335d;
+    color: white;
+    border-radius: 0;
+    border-bottom: 10px solid #1c335d;
+  }
+
+.form-container{
+    padding: 10px;
+}
+
+button{
+    background-color: transparent !important;
+    border: none !important;
+    color: black !important;
+}
+.container{
+    margin-bottom: 20px;
+}
+
+footer{
+    position: fixed;
+    bottom: 10px;
+}
+
+.card-text{
+    height: 30px
+}
